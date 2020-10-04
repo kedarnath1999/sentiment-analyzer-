@@ -1,6 +1,6 @@
 # aws
 
-'chrome analyser.rar' contains chrome ext files
+
 
 doc_analysis.py -> document analysis
 
